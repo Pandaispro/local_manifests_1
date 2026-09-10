@@ -16,4 +16,5 @@
   <project name="exy2100/android_hardware_lineage_interfaces" path="hardware/lineage/interfaces" revision="lineage-23.2" remote="github"/>
   <project name="exy2100/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-23.2" remote="github"/>
   <project name="Pandaispro/proprietary_vendor_samsung_t2s" path="vendor/samsung/t2s" revision="lineage-23.2" remote="github"/>
+  <project name="LineageOS/android_hardware_nxp_uwb" path="hardware/nxp/uwb" revision="lineage-23.2" remote="github"/>
 </manifest>
